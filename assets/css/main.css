@@ -1,0 +1,32 @@
+.div-site{
+	margin: 20px auto;
+}
+.div-site h1{
+	text-align: center;
+}
+.div-contenedor-form{
+	display: inline-block;
+}
+.div-contenido{
+	border: 1px solid grey;
+	border-radius:5px;
+	margin: 20px;
+	padding: 20px;
+}
+.div-contenido input{
+	width: 350px;
+}
+
+#mensaje-post{
+	width: 350px;
+	height: 100px;
+	margin-top: 20px;
+}
+#btn-form-publicar{
+	border-radius: 5px;
+	
+	padding: 3px;
+	color:white;
+	background: grey;
+	margin-left:100px;
+}
